@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         int gameWidth = 1000;
         int gameHeight = 600;
-        JFrame frame = new JFrame("Adventures of Integrals!");
+        JFrame frame = new JFrame("Integral Run");
         frame.setVisible(true);
         frame.setSize(gameHeight, gameWidth);
         frame.setLocationRelativeTo(null);
